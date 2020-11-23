@@ -3,35 +3,20 @@ A Long short-term memory based classifier to classify new drug candidates if tox
 Read the published paper at https://www.ijcaonline.org/archives/volume175/number21/31573-2020920695
 
 # To cite this paper
-@article{10.5120/ijca2020920695,
-
+	@article{10.5120/ijca2020920695,
 	author = {Nath Mriganka and Goswami Subhasish},
-
 	title = {Toxicity Detection in Drug Candidates using Simplified Molecular-Input Line-Entry System},
-
 	journal = {International Journal of Computer Applications},
-
 	issue_date = {September 2020},
-
 	volume = {175},
-
 	number = {21},
-
 	month = {Sep},
-
 	year = {2020},
-
 	issn = {0975-8887},
-
 	pages = {1-4},
-
 	numpages = {4},
-
 	url = {http://www.ijcaonline.org/archives/volume175/number21/31573-2020920695},
-
 	doi = {10.5120/ijca2020920695},
-
 	publisher = {Foundation of Computer Science (FCS), NY, USA},
-	
 	address = {New York, USA}
-}
+	}
