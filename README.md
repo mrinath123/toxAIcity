@@ -3,7 +3,7 @@ A Long short-term memory based classifier to classify new drug candidates if tox
 Read the published paper at https://www.ijcaonline.org/archives/volume175/number21/31573-2020920695
 # Model Architecture
 <div align="center" class="row">
-  <img src="https://i.imgur.com/TpOlyyo.png" width="250"/>
+  <img src="https://i.imgur.com/uIabjLn.png" width="420"/>
 </div>
 # To cite this paper
 	@article{10.5120/ijca2020920695,
